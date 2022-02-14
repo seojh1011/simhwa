@@ -9,7 +9,7 @@ jobs:
     env:
       DB_DATABASE: simhwa
       DB_USER: root
-      DB_PASSWORD: root
+      DB_PASSWORD: 123456
 
     runs-on: ubuntu-latest
     steps:
